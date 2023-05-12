@@ -3,7 +3,7 @@
 
 - 🌍  I'm based in Nghe An, Vietnam
 - 🌱 I’m currently learning ReactJS, SASS, Bootstrap, jQuery
-
+- :handshake: You can reach me via nctaiofficial@gmail.com
 
 
 <!---
