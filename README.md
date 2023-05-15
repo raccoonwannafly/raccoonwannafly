@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tai Nguyen
-## I am Front End developer.
+## A Front End developer.
 
 - 🌍  I'm based in Nghe An, Vietnam
 - 🌱 I’m currently learning VueJS, SASS and NodeJS
