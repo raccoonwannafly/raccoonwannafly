@@ -2,7 +2,7 @@
 ## I am Front End developer.
 
 - 🌍  I'm based in Nghe An, Vietnam
-- 🌱 I’m currently learning ReactJS, SASS, Bootstrap, jQuery
+- 🌱 I’m currently learning VueJS, SASS and NodeJS
 - :handshake: You can reach me via nctaiofficial@gmail.com
 
 
