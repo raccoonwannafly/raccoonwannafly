@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tai Nguyen
-## A Front End developer.
+## Learning to be a web dev.
 
 - 🌱 I’m currently learning VueJS, SASS and NodeJS
 - :handshake: You can reach me via nctaiofficial@gmail.com
