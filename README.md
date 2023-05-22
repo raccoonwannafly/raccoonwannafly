@@ -2,7 +2,7 @@
 ## Learning to be a web dev.
 
 - 🌱 I’m currently learning VueJS, ReactJS and NodeJS
-- :handshake: You can reach me via nctaiofficial@gmail.com
+- :handshake: You can reach me at nctaiofficial@gmail.com
 
 
 <!---
