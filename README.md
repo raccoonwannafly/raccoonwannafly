@@ -1,7 +1,7 @@
 # 👋 Sup, I’m Ty
 ## Learning to be a web dev.
 
-- 🌱 I’m currently learning NextJS and NodeJS
+- 🌱 I’m currently learning React, NextJS and NodeJS
 - :handshake: You can reach me at nctaiofficial@gmail.com
 
 
